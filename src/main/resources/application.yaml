@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: deepl-translation-service
+
+deepl:
+  baseUrl: https://api-free.deepl.com/v2
+  apiKey: YOUR_API_KEY
