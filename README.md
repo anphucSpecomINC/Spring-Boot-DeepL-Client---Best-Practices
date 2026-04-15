@@ -99,7 +99,8 @@ The project follows a 3-layer error handling principle:
 *   Spring Boot Developers comparing WebClient and RestTemplate in a real-world scenario.
 
 ## 12. References
-*   [DeepL API Documentation](https://developers.deepl.com/api-reference/translate/request-translation) - Official technical specifications for the translation endpoint.
+*   [DeepL API Documentation](https://developers.deepl.com/api-reference/translate/request-translation) - Official technical specifications.
+*   [DeepL Mock API](https://github.com/anphucSpecomINC/deepl-mock-api) - A mock server for simulating DeepL API responses during testing.
 
 ## 13. License
 Distributed under the **MIT License**.
