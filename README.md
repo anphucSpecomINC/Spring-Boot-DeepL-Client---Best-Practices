@@ -98,5 +98,8 @@ The project follows a 3-layer error handling principle:
 *   Backend Developers learning professional third-party API integration.
 *   Spring Boot Developers comparing WebClient and RestTemplate in a real-world scenario.
 
-## 12. License
+## 12. References
+*   [DeepL API Documentation](https://developers.deepl.com/api-reference/translate/request-translation) - Official technical specifications for the translation endpoint.
+
+## 13. License
 Distributed under the **MIT License**.

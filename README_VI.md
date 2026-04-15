@@ -98,5 +98,8 @@ Dự án áp dụng nguyên tắc xử lý lỗi 3 lớp:
 *   Backend Developers muốn tìm hiểu cách tích hợp Third-party API chuẩn.
 *   Spring Boot Developers cần so sánh thực tế WebClient và RestTemplate.
 
-## 12. License
+## 12. Tài liệu tham khảo (References)
+*   [DeepL API Documentation](https://developers.deepl.com/api-reference/translate/request-translation) - Tài liệu kỹ thuật chính thức cho endpoint dịch thuật.
+
+## 13. License
 Dự án được phân phối dưới giấy phép **MIT**.
